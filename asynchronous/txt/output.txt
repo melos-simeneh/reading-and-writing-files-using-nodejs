@@ -1,1 +1,1 @@
-This is text written to output.txt filed
+This is text written to output.txt file
