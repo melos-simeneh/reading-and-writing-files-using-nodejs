@@ -1,1 +1,1 @@
-# Reading and writing files Synchronously using Node.js
+# Reading and writing files using Node.js
