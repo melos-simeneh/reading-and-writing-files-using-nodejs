@@ -1,4 +1,9 @@
 # Reading and writing files using Node.js
-# Synchronous
-
-# Asynchronous
+## Synchronous
+ 1. open the terminal
+ 2. cd to synchronous folder
+ 3. run node index.js command
+## Asynchronous
+ 1. open the terminal
+ 2. cd to asynchronous folder
+ 3. run node index.js command
