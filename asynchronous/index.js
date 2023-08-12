@@ -13,7 +13,7 @@ console.log("After reading file");
 const textOut = "This is text written to output.txt file";
 fs.writeFile("./txt/output.txt", textOut, (err) => {
   if (err) return console.log("Error while writting to file");
-  console.log("text written to file");
+  console.log("written to file");
 });
 
 console.log("After writting to file");
